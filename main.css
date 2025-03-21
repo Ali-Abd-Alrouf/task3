@@ -1,0 +1,10 @@
+.services{
+    text-align: center;
+}
+.product{
+    width: 33.3%;
+    float: left;
+}
+.clear{
+    clear: both;
+}
